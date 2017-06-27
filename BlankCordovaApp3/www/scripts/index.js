@@ -22,6 +22,7 @@
 
     function onPause() {
         // TODO: esta aplicación se ha suspendido. Guarde el estado de la aplicación aquí.
+        alert('Hola mundoo');
     };
 
     function onResume() {
